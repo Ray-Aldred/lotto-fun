@@ -73,7 +73,7 @@ xgboost
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/lotto-max-predictor.git
+   git clone https://github.com/Ray-Aldred/lotto-fun/edit/main/lotto-max-predictor.git
    cd lotto-max-predictor
    ```
 
