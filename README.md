@@ -242,9 +242,8 @@ Remember:
 
 ## 🔗 Resources
 
-- [Lotto Max Official Website](https://www.olg.ca/en/lottery/play-lotto-max.html)
+- [Lotto Max Official Website]([https://www.olg.ca/en/lottery/play-lotto-max.html](https://lottomax.ca/))
 - [Understanding Lottery Odds](https://en.wikipedia.org/wiki/Lottery_mathematics)
-- [Responsible Gaming](https://www.problemgambling.ca/)
 
 ---
 
